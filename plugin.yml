@@ -1,0 +1,13 @@
+name: DoVote
+main: DoVote\DoVote
+version: "4.0-Release"
+api: 
+- 1.12.0
+- 1.13.0
+- 1.14.0
+- 2.0.0
+author: ZINGDING,Maru
+
+commands:
+ 투표:
+  description: 투표 명령어
